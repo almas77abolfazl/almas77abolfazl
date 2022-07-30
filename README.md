@@ -6,10 +6,8 @@ Expertise in developing Single Page Applications (SPA) with MVC Architecture suc
 Passionate in problem-solving and love troubleshooting complex issues using various workarounds and using debugging tools.
 
 
-<div style="display:flex">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=almas77abolfazl&theme=radical&layout=compact" />
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=almas77abolfazl&show_icons=true&theme=radical" />
-</div>
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=almas77abolfazl&theme=radical&layout=compact" />
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=almas77abolfazl&show_icons=true&theme=radical" />
 
 
 
