@@ -10,9 +10,9 @@ Expertise in developing **Single Page Applications (SPA)** with MVC Architecture
 <!-- <p align="center"> 
      <img align="center" src="https://komarev.com/ghpvc/?username=almas77abolfazl&color=brightgreen" /> <br> 
 </p> --!>
-<p align="center"> 
+<!-- <p align="center"> 
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=almas77abolfazl&show_icons=true&theme=dark" />
-</p>
+</p> --!>
 
 
 
