@@ -1,9 +1,10 @@
 
  **Hi**! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> <br>
 
-I have **3 years**' experience **front-end** web development professional.
+With over 3 years of experience in **front-end** web development, I have specialized expertise in building Single Page Applications (SPA) using MVC architectures, particularly with **Angular**.<br>
+Along my professional journey, I've also had the opportunity to familiarize myself with frameworks like **NestJS** and **ElectronJS**, steering me towards backend development and working with **Node.js**.<br>
+In addition, at my new workplace, I'm delving into **C#** and **.NET** development.
 
-Expertise in developing **Single Page Applications (SPA)** with MVC Architecture such as **Angular**.
 
 
 
