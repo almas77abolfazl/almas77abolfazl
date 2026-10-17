@@ -1,21 +1,26 @@
+# Hi, I'm Abolfazl 👋
 
- **Hi**! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> <br>
+**Front-end Developer · Angular · TypeScript · Agentic Workflows**
 
-With over 6 years of experience in **front-end** web development, I have specialized expertise in building Single Page Applications (SPA) using MVC architectures, particularly with **Angular**.<br>
-Along my professional journey, I've also had the opportunity to familiarize myself with frameworks like **NestJS** and **ElectronJS**, steering me towards backend development and working with **Node.js**.<br>
-In addition, at my new workplace, I'm delving into **C#** and **.NET** development.
+I’m a developer with 6+ years of experience building web applications, primarily with **Angular** and **TypeScript**. My work includes enterprise applications, complex forms, data grids, and reusable UI components.
 
+Beyond the front end, I work with **C# and ASP.NET Core** to build APIs and backend services. I also have experience with **NestJS**, **Node.js**, and **Electron**.
 
+### AI-assisted development
 
+I use AI coding agents such as **Codex** and **Kilo Code** as part of my development workflow—from planning and implementation to refactoring and debugging.
 
-<!-- <p align="center"> 
-     <img align="center" src="https://komarev.com/ghpvc/?username=almas77abolfazl&color=brightgreen" /> <br> 
-</p> --!>
- <p align="center"> 
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=almas77abolfazl&show_icons=true&theme=dark" />
-</p>
+I also create reusable instructions, skills, and automation to help agents navigate codebases and handle repetitive development tasks.
 
+### Tech stack
 
+- **Frontend:** Angular, TypeScript, JavaScript, RxJS, HTML, CSS, Tailwind CSS
+- **Backend:** C#, ASP.NET Core, Node.js, NestJS
+- **Tools & infrastructure:** Git, Docker, SQL Server, Redis
+- **AI workflows:** Coding agents, custom skills, task automation
 
+### What I enjoy building
 
+Web applications, developer tools, and automation that makes everyday development easier.
 
+Outside of coding, I enjoy gaming, chess, and metal music.
